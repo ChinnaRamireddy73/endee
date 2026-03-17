@@ -1,1 +1,368 @@
-
+[
+  {
+    "title": "Python Basics",
+    "description": "Learn Python programming for beginners",
+    "url": "https://docs.python.org/tutorial",
+    "category": "CSE"
+  },
+  {
+    "title": "Advanced Python",
+    "description": "Deep dive into advanced Python concepts",
+    "url": "https://realpython.com",
+    "category": "CSE"
+  },
+  {
+    "title": "Java Programming",
+    "description": "Learn Java programming from scratch",
+    "url": "https://www.w3schools.com/java",
+    "category": "CSE"
+  },
+  {
+    "title": "C Programming",
+    "description": "Learn C programming fundamentals",
+    "url": "https://www.programiz.com/c-programming",
+    "category": "CSE"
+  },
+  {
+    "title": "C++ Programming",
+    "description": "Learn object oriented programming using C++",
+    "url": "https://www.learncpp.com",
+    "category": "CSE"
+  },
+  {
+    "title": "Data Structures",
+    "description": "Learn stacks, queues, trees and graphs",
+    "url": "https://www.geeksforgeeks.org/data-structures",
+    "category": "CSE"
+  },
+  {
+    "title": "Algorithms",
+    "description": "Introduction to algorithm design and analysis",
+    "url": "https://www.coursera.org/learn/algorithms-part1",
+    "category": "CSE"
+  },
+  {
+    "title": "Operating Systems",
+    "description": "Learn OS concepts like processes and memory management",
+    "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
+    "category": "CSE"
+  },
+  {
+    "title": "Database Management Systems",
+    "description": "Learn relational databases and SQL",
+    "url": "https://www.mysqltutorial.org",
+    "category": "CSE"
+  },
+  {
+    "title": "Computer Networks",
+    "description": "Understand network protocols and communication",
+    "url": "https://www.geeksforgeeks.org/computer-network-tutorials",
+    "category": "CSE"
+  },
+  {
+    "title": "Artificial Intelligence Basics",
+    "description": "Introduction to artificial intelligence concepts",
+    "url": "https://ai.google/education",
+    "category": "AI"
+  },
+  {
+    "title": "Machine Learning Crash Course",
+    "description": "Learn ML concepts with real examples",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "category": "AI"
+  },
+  {
+    "title": "Deep Learning Fundamentals",
+    "description": "Understand neural networks and deep learning",
+    "url": "https://www.deeplearning.ai",
+    "category": "AI"
+  },
+  {
+    "title": "Natural Language Processing",
+    "description": "Learn text processing and NLP techniques",
+    "url": "https://www.coursera.org/learn/language-processing",
+    "category": "AI"
+  },
+  {
+    "title": "Computer Vision",
+    "description": "Image processing and computer vision basics",
+    "url": "https://opencv.org",
+    "category": "AI"
+  },
+  {
+    "title": "Reinforcement Learning",
+    "description": "Learn RL algorithms and applications",
+    "url": "https://spinningup.openai.com",
+    "category": "AI"
+  },
+  {
+    "title": "Data Science with Python",
+    "description": "Learn pandas, numpy and data analysis",
+    "url": "https://www.kaggle.com/learn",
+    "category": "AI"
+  },
+  {
+    "title": "TensorFlow for Beginners",
+    "description": "Build deep learning models using TensorFlow",
+    "url": "https://www.tensorflow.org/tutorials",
+    "category": "AI"
+  },
+  {
+    "title": "PyTorch Fundamentals",
+    "description": "Learn deep learning using PyTorch",
+    "url": "https://pytorch.org/tutorials",
+    "category": "AI"
+  },
+  {
+    "title": "AI Ethics",
+    "description": "Understand ethical issues in artificial intelligence",
+    "url": "https://www.edx.org/course/ethics-of-ai",
+    "category": "AI"
+  },
+  {
+    "title": "Digital Electronics",
+    "description": "Learn logic gates and digital circuits",
+    "url": "https://www.allaboutcircuits.com",
+    "category": "ECE"
+  },
+  {
+    "title": "Analog Electronics",
+    "description": "Basics of analog circuits and amplifiers",
+    "url": "https://www.electronics-tutorials.ws",
+    "category": "ECE"
+  },
+  {
+    "title": "Signals and Systems",
+    "description": "Understand signal processing fundamentals",
+    "url": "https://ocw.mit.edu",
+    "category": "ECE"
+  },
+  {
+    "title": "Communication Systems",
+    "description": "Study modulation and communication methods",
+    "url": "https://nptel.ac.in",
+    "category": "ECE"
+  },
+  {
+    "title": "Embedded Systems",
+    "description": "Introduction to embedded system design",
+    "url": "https://www.arm.com/resources",
+    "category": "ECE"
+  },
+  {
+    "title": "Microprocessors",
+    "description": "Learn 8086 architecture and assembly programming",
+    "url": "https://www.tutorialspoint.com/microprocessor",
+    "category": "ECE"
+  },
+  {
+    "title": "VLSI Design",
+    "description": "Basics of integrated circuit design",
+    "url": "https://nptel.ac.in/courses/vlsi",
+    "category": "ECE"
+  },
+  {
+    "title": "Control Systems",
+    "description": "Learn feedback systems and stability analysis",
+    "url": "https://www.coursera.org/learn/control-of-mobile-robots",
+    "category": "ECE"
+  },
+  {
+    "title": "Wireless Communication",
+    "description": "Introduction to wireless networks and technologies",
+    "url": "https://www.edx.org",
+    "category": "ECE"
+  },
+  {
+    "title": "Internet of Things",
+    "description": "Learn IoT devices and communication protocols",
+    "url": "https://www.coursera.org/learn/iot",
+    "category": "ECE"
+  },
+  {
+    "title": "Engineering Mathematics",
+    "description": "Basic mathematics for engineering students",
+    "url": "https://www.khanacademy.org/math",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Linear Algebra",
+    "description": "Vectors, matrices and linear transformations",
+    "url": "https://www.khanacademy.org/math/linear-algebra",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Calculus",
+    "description": "Limits, derivatives and integrals",
+    "url": "https://www.khanacademy.org/math/calculus",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Probability and Statistics",
+    "description": "Learn probability theory and statistics",
+    "url": "https://www.coursera.org/learn/probability-statistics",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Discrete Mathematics",
+    "description": "Logic, sets and combinatorics",
+    "url": "https://www.geeksforgeeks.org/discrete-mathematics",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Numerical Methods",
+    "description": "Techniques for solving mathematical problems numerically",
+    "url": "https://nptel.ac.in",
+    "category": "Mathematics"
+  },
+  {
+    "title": "Engineering Physics",
+    "description": "Basic physics concepts for engineers",
+    "url": "https://www.khanacademy.org/science/physics",
+    "category": "Physics"
+  },
+  {
+    "title": "Quantum Mechanics",
+    "description": "Introduction to quantum physics",
+    "url": "https://ocw.mit.edu",
+    "category": "Physics"
+  },
+  {
+    "title": "Thermodynamics",
+    "description": "Energy, heat and thermodynamic laws",
+    "url": "https://www.khanacademy.org/science/physics/thermodynamics",
+    "category": "Physics"
+  },
+  {
+    "title": "Electromagnetism",
+    "description": "Study electric and magnetic fields",
+    "url": "https://www.edx.org",
+    "category": "Physics"
+  },
+  {
+    "title": "Optics",
+    "description": "Learn about light and optical systems",
+    "url": "https://ocw.mit.edu",
+    "category": "Physics"
+  },
+  {
+    "title": "Mechanics of Materials",
+    "description": "Learn stress and strain in materials",
+    "url": "https://nptel.ac.in",
+    "category": "Mechanical"
+  },
+  {
+    "title": "Fluid Mechanics",
+    "description": "Study fluid behavior and flow dynamics",
+    "url": "https://www.coursera.org/learn/fluid-mechanics",
+    "category": "Mechanical"
+  },
+  {
+    "title": "Heat Transfer",
+    "description": "Conduction, convection and radiation principles",
+    "url": "https://www.khanacademy.org",
+    "category": "Mechanical"
+  },
+  {
+    "title": "Machine Design",
+    "description": "Design mechanical components and systems",
+    "url": "https://nptel.ac.in",
+    "category": "Mechanical"
+  },
+  {
+    "title": "Manufacturing Processes",
+    "description": "Learn casting, welding and machining",
+    "url": "https://nptel.ac.in",
+    "category": "Mechanical"
+  },
+  {
+    "title": "Structural Engineering",
+    "description": "Study building structures and materials",
+    "url": "https://nptel.ac.in",
+    "category": "Civil"
+  },
+  {
+    "title": "Geotechnical Engineering",
+    "description": "Soil mechanics and foundation engineering",
+    "url": "https://nptel.ac.in",
+    "category": "Civil"
+  },
+  {
+    "title": "Transportation Engineering",
+    "description": "Design roads and transportation systems",
+    "url": "https://nptel.ac.in",
+    "category": "Civil"
+  },
+  {
+    "title": "Environmental Engineering",
+    "description": "Water treatment and pollution control",
+    "url": "https://www.coursera.org",
+    "category": "Civil"
+  },
+  {
+    "title": "Surveying",
+    "description": "Land measurement and mapping techniques",
+    "url": "https://nptel.ac.in",
+    "category": "Civil"
+  },
+  {
+    "title": "English Grammar",
+    "description": "Improve English grammar and writing skills",
+    "url": "https://www.grammarly.com/blog",
+    "category": "English"
+  },
+  {
+    "title": "Business Communication",
+    "description": "Professional communication skills",
+    "url": "https://www.coursera.org",
+    "category": "English"
+  },
+  {
+    "title": "Public Speaking",
+    "description": "Learn effective presentation skills",
+    "url": "https://www.toastmasters.org",
+    "category": "English"
+  },
+  {
+    "title": "Technical Writing",
+    "description": "Write clear technical documentation",
+    "url": "https://developers.google.com/tech-writing",
+    "category": "English"
+  },
+  {
+    "title": "Telugu Language Basics",
+    "description": "Learn Telugu reading and writing",
+    "url": "https://www.teluguone.com",
+    "category": "Telugu"
+  },
+  {
+    "title": "Telugu Literature",
+    "description": "Introduction to Telugu literature and poetry",
+    "url": "https://www.telugubooks.in",
+    "category": "Telugu"
+  },
+  {
+    "title": "Quantitative Aptitude",
+    "description": "Practice aptitude questions for placements",
+    "url": "https://www.indiabix.com",
+    "category": "Aptitude"
+  },
+  {
+    "title": "Logical Reasoning",
+    "description": "Improve reasoning and problem solving skills",
+    "url": "https://www.indiabix.com/logical-reasoning",
+    "category": "Aptitude"
+  },
+  {
+    "title": "Verbal Ability",
+    "description": "Improve vocabulary and comprehension",
+    "url": "https://www.indiabix.com/verbal-ability",
+    "category": "Aptitude"
+  },
+  {
+    "title": "Interview Preparation",
+    "description": "Prepare for technical and HR interviews",
+    "url": "https://www.geeksforgeeks.org/interview-preparation",
+    "category": "Aptitude"
+  }
+]

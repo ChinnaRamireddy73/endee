@@ -1,1 +1,6 @@
-
+sentence-transformers
+requests
+numpy
+torch
+msgpack
+nltk
